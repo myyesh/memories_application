@@ -1,1 +1,1 @@
-A full-stack MERN application built with React, Node.js, Express and MongoDB. The application, named "Memories," is a simple social media platform where users can share and post memorable events from there lives. 
+Memories is a full-stack social media application built using the MERN stack — MongoDB, Express.js, React, and Node.js. It allows users to create, share, and view memorable moments from their lives in a beautifully designed and interactive platform.
